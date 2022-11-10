@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Nokia Mobile Mother Board",
+        "price": 910.99,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Asus Rog G531 GT Motherboard",
+        "price": 2249,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Samsung Smart TV Mother Board",
+        "price": 3999,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Intel Core i9 7900X Processor",
+        "price": 13608.99,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Samsung SSD 980 V-NAND 250GB",
+        "price": 688.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Lenovo M30 MotherBoard",
+        "price": 532.99,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Galaxy M20 Mother Board",
+        "price": 745.99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Lenovo K8 Plus Mother Board ",
+        "price": 540.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Lenovo K8 Plus FingerPrint Sensor",
+        "price": 286.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-9.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "Moto G60 MotherBoard",
+        "price": 789.55,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-10.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "Samsung Washing Machine Motor",
+        "price": 1289.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-11.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "Butterfly Mixer Grinder Motor",
+        "price": 548.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-12.jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
